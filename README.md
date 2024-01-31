@@ -6,7 +6,7 @@ Topics to be covered:
 
 ## Setup
 Clone the repository  
-`git clone git@github.com:Orfium/playwright-workshop-v2.git`
+`git clone git@github.com:constantakopoulos/playwright-workshop.git`
 
 Install "poetry" in your system  
 `pip install poetry`
@@ -30,7 +30,7 @@ Feel free to skip it if you have already set up git and GitHub.
 You should configure “git” to work with GitHub. Here is a good guide → Your first time with Git and GitHub
 
 3. Download the project
-Go to (or create) the folder where you store all Orfium’s coding projects.
+Go to (or create) the folder where you store all your coding projects.
 
 Then, download the workshop’s code from GitHub with the command:
 
