@@ -18,4 +18,40 @@ Install the dependencies of the project
 Each part of the workshop's code is on a different git branch. If you follow the confluence page of the workshop there are instructions about which branch you need to checkout in every section.
 
 ## References
-[Confluence page](https://orfium.atlassian.net/wiki/spaces/~671243928/pages/3182395454/Playwright+Workshop+v.2) to follow along.
+Setup the project
+1. Git
+First, make sure “git” is installed on your machine.
+
+How to install git
+
+2. Git & GitHub
+Feel free to skip it if you have already set up git and GitHub.
+
+You should configure “git” to work with GitHub. Here is a good guide → Your first time with Git and GitHub
+
+3. Download the project
+Go to (or create) the folder where you store all Orfium’s coding projects.
+
+Then, download the workshop’s code from GitHub with the command:
+
+git clone https://github.com/geokats7/playwright-workshop-v2.git
+
+Now, you should have the workshop’s code locally, on your machine. Open the folder with PyCharm or any other code editor.
+
+Run the following command to follow along with the first chapter:
+
+git checkout chapter1.1-simple-tests
+
+4. Install project dependencies
+First, you have to install poetry to your system.
+
+Run pip install poetry to get the latest version of poetry.
+
+Then, inside the project’s root folder, run:
+
+poetry install
+
+This command will create a virtual environment and install all the required dependencies (located in the pyproject.toml file) in it.
+
+Playwright
+Run playwright install or python -m playwright install to install all the dependencies of the playwright framework.
