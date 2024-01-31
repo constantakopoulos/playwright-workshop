@@ -22,7 +22,7 @@ Setup the project
 1. Git
 First, make sure “git” is installed on your machine.
 
-How to install git
+[How to install git]([url](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
 
 2. Git & GitHub
 Feel free to skip it if you have already set up git and GitHub.
