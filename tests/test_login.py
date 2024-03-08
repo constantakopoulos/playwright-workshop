@@ -21,3 +21,7 @@ def test_login_wrong_username():
 def test_login_wrong_password():
     """Write your test here"""
     pass
+
+def test_login_no_username():
+    """Write your test here"""
+    pass
