@@ -5,13 +5,13 @@ Topics to be covered:
 - BDD in test automation
 
 ## Setup
-Clone the repository  
+Clone the repository
 `git clone git@github.com:constantakopoulos/playwright-workshop.git`
 
-Install "poetry" in your system  
+Install "poetry" in your system
 `pip install poetry`
 
-Install the dependencies of the project  
+Install the dependencies of the project
 `poetry install`
 
 ## Follow along

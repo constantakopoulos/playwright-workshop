@@ -46,7 +46,7 @@ Testing Processes & Mindset
 
 -   <https://cakehurstryan.com/2023/12/22/testers-dont-wait-to-be-asked/>\
 
- 
+
 SQL
 -----
 

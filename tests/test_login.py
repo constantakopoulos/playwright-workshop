@@ -1,4 +1,3 @@
-import pytest
 from playwright.sync_api import sync_playwright
 
 
@@ -13,6 +12,7 @@ def test_login_successful():
         page.locator("#submit").click()
         assert page.locator("text=Logged In Successfully").is_visible()
 
-def test_login_wrong_username():
-    """Write your test here"""
-    pass
+
+# def test_login_wrong_username():
+#     """Write your test here"""
+#     pass
