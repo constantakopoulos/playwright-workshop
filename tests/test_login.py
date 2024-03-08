@@ -13,6 +13,11 @@ def test_login_successful():
         assert page.locator("text=Logged In Successfully").is_visible()
 
 
-# def test_login_wrong_username():
-#     """Write your test here"""
-#     pass
+def test_login_wrong_username():
+    """Write your test here"""
+    pass
+
+
+def test_login_wrong_password():
+    """Write your test here"""
+    pass
