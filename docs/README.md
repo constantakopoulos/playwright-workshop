@@ -11,6 +11,9 @@ Clone the repository
 Install "poetry" in your system
 `pip install poetry`
 
+Activate virtual env
+`poetry shell`"
+
 Install the dependencies of the project
 `poetry install`
 

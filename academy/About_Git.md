@@ -1,4 +1,4 @@
-## Git Commands Reference 
+## Git Commands Reference
 
 This page aims to gather the necessary information about Git commands to refer to for convenience.
 
