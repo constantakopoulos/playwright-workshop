@@ -44,7 +44,9 @@ Testing Processes & Mindset
 
 -   <https://www.satisfice.com/download/heuristics-of-software-testability>
 
--   <https://cakehurstryan.com/2023/12/22/testers-dont-wait-to-be-asked/>\
+-   <https://cakehurstryan.com/2023/12/22/testers-dont-wait-to-be-asked/>
+
+-  <https://martinfowler.com/articles/practical-test-pyramid.html>  
 
 
 SQL
